@@ -3,7 +3,7 @@
 ```
 git clone https://github.com/alexSivka/dist.local.git
 cd dist.local
-composer update
+composer install
 ```
 
 в файле .env прописываем настройки базы
